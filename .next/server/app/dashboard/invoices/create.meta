@@ -1,0 +1,17 @@
+{
+  "status": 200,
+  "headers": {
+    "link": "</_next/static/media/a34f9d1faa5f3315-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c556ae4be4c9cfa8-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/ebd7dc65a6ba3e83-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+    "x-nextjs-stale-time": "4294967294",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/dashboard/layout,_N_T_/dashboard/invoices/layout,_N_T_/dashboard/invoices/create/layout,_N_T_/dashboard/invoices/create/page,_N_T_/dashboard/invoices/create"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/dashboard/invoices/create/__PAGE__.0404ff85ef95191779475a89b36d7de182235b21372551bc327cddaa65d727f5",
+    "/dashboard/invoices/create.7e36fcc4ad3f121f6154983c5d3607a5636d2680546505b15e1600afb1010b7b",
+    "/dashboard/invoices.72a35cab062bf4ad7dfc5f45a38d9c4b58b5508ac725336e00ceed75911d223a",
+    "/dashboard.10910087de24bfcabe854fda62b5023a61fe531705043b9979fdf00f12c4c0ec",
+    "/"
+  ]
+}
